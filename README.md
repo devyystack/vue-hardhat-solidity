@@ -1,5 +1,3 @@
-# vSamurais
-
 ## Development
 > npm i
 
